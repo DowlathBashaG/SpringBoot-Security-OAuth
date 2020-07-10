@@ -18,6 +18,10 @@
 
 ![oauthar](https://user-images.githubusercontent.com/9671419/87207688-241acb80-c32a-11ea-9c37-a60d5c1c8128.JPG)
 
+## Spring Security Architecture 
+
+ ![spring security arch diagram](https://user-images.githubusercontent.com/9671419/87207889-a905e500-c32a-11ea-9c81-cc39e39188bd.JPG)
+
 - spring-security-client - Client Project which has the UI
 
 - spring-security-auth-server - Has the Authorization Server and Resource Server
