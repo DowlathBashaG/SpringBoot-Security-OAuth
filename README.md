@@ -7,6 +7,10 @@
    - OAuth provides to clients a "secure delegated access" to server resourcces on behalf of a resource owner
    
    - OAuth2 is more of a framework than a defined protocol
+   
+## OAuth2 Architecture
+
+
 
 
 - spring-security-client - Client Project which has the UI
