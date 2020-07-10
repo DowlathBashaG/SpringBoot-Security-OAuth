@@ -10,8 +10,13 @@
    
 ## OAuth2 Architecture
 
+![Oauth-architecture](https://user-images.githubusercontent.com/9671419/87207691-24b36200-c32a-11ea-8895-dc3026d5e0a5.png)
 
+- CITI BANK ( CLIENT )  /  FACEBOOK (AUTHORIZATION SERVER)
 
+![CITI-FACEb](https://user-images.githubusercontent.com/9671419/87207692-254bf880-c32a-11ea-9a4e-800a8838b0fa.JPG)
+
+![oauthar](https://user-images.githubusercontent.com/9671419/87207688-241acb80-c32a-11ea-9c37-a60d5c1c8128.JPG)
 
 - spring-security-client - Client Project which has the UI
 
